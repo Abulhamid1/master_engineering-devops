@@ -1,7 +1,6 @@
 #!/bin/bash
 
-pwd
+pwd  -P
 
-0-current_working_directory
 
-press 
+
